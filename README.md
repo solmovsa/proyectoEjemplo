@@ -1,7 +1,8 @@
 # proyectoEjemplo
-Este es mi primer ejemplo Gihub
 
-Autor:  Jose Guerra 
+Este es mi primer ejemplo Github
 
-Cuenca
+Autor:  Jose Guerra.
+
+Ciudad: Cuenca.
 
